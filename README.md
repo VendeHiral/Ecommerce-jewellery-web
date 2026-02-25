@@ -36,7 +36,8 @@ src/
 1. Clone the repository
 
 2. 2. Install dependencies
-   npm install
+      
+npm install
 
 3. Run the project
 4. npm run dev
